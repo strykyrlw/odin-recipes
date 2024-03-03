@@ -34,4 +34,4 @@ Content Presentation:
 Reflective Learning:
      Through self-reflection and documentation, reinforcing the knowledge gained and identifying future learning paths.
 
-This README.md file itself is a testament to the project's educational journey, serving as both a guide for future learners and a reflective piece for the creator. It encapsulates the essence of the Odin Recipes project: a stepping stone into the vast world of web development.
+This README.md file itself is a testament to the project's educational journey, serving as both a guide for future learners and a reflective piece for the creator. It encapsulates the essence of the Odin Recipes project: a stepping stone into the vast world of web development. 
